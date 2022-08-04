@@ -1,0 +1,10 @@
+section {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -0.5rem;
+}
+
+section > * {
+  flex: 1;
+  margin: 0 0.5rem 1rem;
+}
